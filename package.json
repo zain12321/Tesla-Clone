@@ -1,0 +1,47 @@
+{
+  "name": "tesla-clone",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/cache": "^11.6.0",
+    "@emotion/react": "^11.8.2",
+    "@emotion/server": "^11.4.0",
+    "@emotion/styled": "^11.8.1",
+    "@mui/lab": "^5.0.0-alpha.70",
+    "@mui/material": "^5.5.2",
+    "@popperjs/core": "^2.11.2",
+    "apexcharts": "^3.33.2",
+    "apexcharts-clevision": "3.28.5",
+    "axios": "^0.26.1",
+    "babel-eslint": "^10.1.0",
+    "clsx": "^1.1.1",
+    "formik": "^2.2.9",
+    "mdi-material-ui": "^7.1.0",
+    "next": "12.1.0",
+    "react": "17.0.2",
+    "react-apexcharts": "^1.4.0",
+    "react-countdown": "^2.3.2",
+    "react-countdown-circle-timer": "^3.0.9",
+    "react-dom": "17.0.2",
+    "react-icons": "^4.3.1",
+    "react-player": "^2.10.0",
+    "react-responsive-carousel": "^3.2.23",
+    "react-simple-image-slider": "^2.4.1",
+    "reactjs-popup": "^2.0.5",
+    "styled-components": "^5.3.5",
+    "yup": "^0.32.11"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.4",
+    "eslint": "8.11.0",
+    "eslint-config-next": "12.1.0",
+    "postcss": "^8.4.12",
+    "tailwindcss": "^3.0.23"
+  }
+}
